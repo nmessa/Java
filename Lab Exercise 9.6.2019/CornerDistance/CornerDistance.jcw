@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CornerDistance</label>
+	</settings>
+	<users>
+		<user>
+			<path>CornerDistance.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CornerDistance.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SpeedOfLight</label>
+	</settings>
+	<users>
+		<user>
+			<path>SpeedOfLight.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SpeedOfLight.jcp</path>
+		</project>
+	</projects>
+</workspace>
