@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DegToRad</label>
+	</settings>
+	<users>
+		<user>
+			<path>DegToRad.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DegToRad.jcp</path>
+		</project>
+	</projects>
+</workspace>

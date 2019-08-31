@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TrigIdenty</label>
+	</settings>
+	<users>
+		<user>
+			<path>TrigIdenty.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TrigIdenty.jcp</path>
+		</project>
+	</projects>
+</workspace>

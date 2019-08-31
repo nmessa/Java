@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>AverageRainfall</label>
+	</settings>
+	<users>
+		<user>
+			<path>AverageRainfall.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AverageRainfall.jcp</path>
+		</project>
+	</projects>
+</workspace>
