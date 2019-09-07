@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>IfElseDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>IfElseDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>IfElseDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

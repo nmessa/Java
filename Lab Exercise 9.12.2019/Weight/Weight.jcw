@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Weight</label>
+	</settings>
+	<users>
+		<user>
+			<path>Weight.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Weight.jcp</path>
+		</project>
+	</projects>
+</workspace>

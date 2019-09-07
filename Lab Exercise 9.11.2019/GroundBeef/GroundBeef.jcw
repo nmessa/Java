@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>GroundBeef</label>
+	</settings>
+	<users>
+		<user>
+			<path>GroundBeef.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>GroundBeef.jcp</path>
+		</project>
+	</projects>
+</workspace>

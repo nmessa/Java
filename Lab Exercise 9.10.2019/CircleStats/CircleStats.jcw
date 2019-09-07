@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CircleStats</label>
+	</settings>
+	<users>
+		<user>
+			<path>CircleStats.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CircleStats.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RadiusOFCircle</label>
+	</settings>
+	<users>
+		<user>
+			<path>RadiusOFCircle.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RadiusOFCircle.jcp</path>
+		</project>
+	</projects>
+</workspace>
