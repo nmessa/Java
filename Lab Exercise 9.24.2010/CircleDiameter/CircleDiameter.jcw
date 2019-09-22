@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CircleDiameter</label>
+	</settings>
+	<users>
+		<user>
+			<path>CircleDiameter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CircleDiameter.jcp</path>
+		</project>
+	</projects>
+</workspace>

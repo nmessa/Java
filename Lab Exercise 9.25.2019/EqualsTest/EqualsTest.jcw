@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>EqualsTest</label>
+	</settings>
+	<users>
+		<user>
+			<path>EqualsTest.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>EqualsTest.jcp</path>
+		</project>
+	</projects>
+</workspace>
