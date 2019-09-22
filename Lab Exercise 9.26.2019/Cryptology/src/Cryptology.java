@@ -14,26 +14,26 @@ public class Cryptology {
     	//Declare variables
     	String encryptSentence, decryptSentence;
     	//Create a Crypto object
-    	Crypto myCryptObject = new Crypto();
+    	 //Add code here
     	
     	//Create a Scanner object
-        Scanner reader = new Scanner(System.in);
+        //Add code here
+        
         
         //Get the phrase to encrypt ("This is a very big morning.")
-        System.out.println("Enter a sentence that is to be encrypted: ");
-        String sentence = reader.nextLine();
+         //Add code here
         
         //Encrypt the sentence and store it in a variable
-        encryptSentence = myCryptObject.encrypt(sentence);
+         //Add code here
         
         //Print the encrypted sentence
-        System.out.println("Encrypted sentence = " + encryptSentence);
+         //Add code here
         
         //Decrypt the sentence and store it in a variable
-        decryptSentence = myCryptObject.decrypt(encryptSentence);
+         //Add code here
         
         //Print the decrypted sentence
-        System.out.println("Decrypted sentence = " + decryptSentence);
+         //Add code here
     }
 }
 
