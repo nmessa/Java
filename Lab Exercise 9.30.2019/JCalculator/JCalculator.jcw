@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JCalculator</label>
+	</settings>
+	<users>
+		<user>
+			<path>JCalculator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JCalculator.jcp</path>
+		</project>
+	</projects>
+</workspace>

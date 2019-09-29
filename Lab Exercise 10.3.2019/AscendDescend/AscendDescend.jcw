@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>AscendDescend</label>
+	</settings>
+	<users>
+		<user>
+			<path>AscendDescend.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AscendDescend.jcp</path>
+		</project>
+	</projects>
+</workspace>

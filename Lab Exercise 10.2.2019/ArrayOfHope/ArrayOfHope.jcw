@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArrayOfHope</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArrayOfHope.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayOfHope.jcp</path>
+		</project>
+	</projects>
+</workspace>

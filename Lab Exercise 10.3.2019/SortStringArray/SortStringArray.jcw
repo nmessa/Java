@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SortStringArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>SortStringArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SortStringArray.jcp</path>
+		</project>
+	</projects>
+</workspace>
