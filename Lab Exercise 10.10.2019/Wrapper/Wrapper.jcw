@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Wrapper</label>
+	</settings>
+	<users>
+		<user>
+			<path>Wrapper.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Wrapper.jcp</path>
+		</project>
+	</projects>
+</workspace>

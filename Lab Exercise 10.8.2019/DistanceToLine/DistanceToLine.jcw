@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DistanceToLine</label>
+	</settings>
+	<users>
+		<user>
+			<path>DistanceToLine.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DistanceToLine.jcp</path>
+		</project>
+	</projects>
+</workspace>
