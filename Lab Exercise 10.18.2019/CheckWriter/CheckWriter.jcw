@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CheckWriter</label>
+	</settings>
+	<users>
+		<user>
+			<path>CheckWriter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CheckWriter.jcp</path>
+		</project>
+	</projects>
+</workspace>

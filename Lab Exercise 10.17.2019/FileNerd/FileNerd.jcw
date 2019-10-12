@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FileNerd</label>
+	</settings>
+	<users>
+		<user>
+			<path>FileNerd.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FileNerd.jcp</path>
+		</project>
+	</projects>
+</workspace>

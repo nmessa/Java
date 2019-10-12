@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Censor</label>
+	</settings>
+	<users>
+		<user>
+			<path>Censor.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Censor.jcp</path>
+		</project>
+	</projects>
+</workspace>
