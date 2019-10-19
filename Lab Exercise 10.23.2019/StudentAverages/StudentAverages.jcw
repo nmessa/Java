@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>StudentAverages</label>
+	</settings>
+	<users>
+		<user>
+			<path>StudentAverages.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>StudentAverages.jcp</path>
+		</project>
+	</projects>
+</workspace>
