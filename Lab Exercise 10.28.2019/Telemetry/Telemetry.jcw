@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Telemetry</label>
+	</settings>
+	<users>
+		<user>
+			<path>Telemetry.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Telemetry.jcp</path>
+		</project>
+	</projects>
+</workspace>

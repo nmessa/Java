@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Tester</label>
+	</settings>
+	<users>
+		<user>
+			<path>Tester.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Tester.jcp</path>
+		</project>
+	</projects>
+</workspace>
