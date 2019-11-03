@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>DiceSimulation</label>
+	</settings>
+	<users>
+		<user>
+			<path>DiceSimulation.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>DiceSimulation.jcp</path>
+		</project>
+	</projects>
+</workspace>

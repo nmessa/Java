@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ParameterPassing</label>
+	</settings>
+	<users>
+		<user>
+			<path>ParameterPassing.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ParameterPassing.jcp</path>
+		</project>
+	</projects>
+</workspace>

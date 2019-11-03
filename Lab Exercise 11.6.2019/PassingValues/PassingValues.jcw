@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>PassingValues</label>
+	</settings>
+	<users>
+		<user>
+			<path>PassingValues.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>PassingValues.jcp</path>
+		</project>
+	</projects>
+</workspace>

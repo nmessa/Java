@@ -1,0 +1,2 @@
+"G:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 11.4.2019\\SigmoidTest\\src\\Sigmoid.java"
+"G:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 11.4.2019\\SigmoidTest\\src\\SigmoidTest.java"

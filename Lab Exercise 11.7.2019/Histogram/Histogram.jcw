@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Histogram</label>
+	</settings>
+	<users>
+		<user>
+			<path>Histogram.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Histogram.jcp</path>
+		</project>
+	</projects>
+</workspace>

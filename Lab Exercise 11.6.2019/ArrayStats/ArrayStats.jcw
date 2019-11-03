@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArrayStats</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArrayStats.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayStats.jcp</path>
+		</project>
+	</projects>
+</workspace>
