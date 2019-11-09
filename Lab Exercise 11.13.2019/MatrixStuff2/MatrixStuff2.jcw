@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MatrixStuff2</label>
+	</settings>
+	<users>
+		<user>
+			<path>MatrixStuff2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MatrixStuff2.jcp</path>
+		</project>
+	</projects>
+</workspace>

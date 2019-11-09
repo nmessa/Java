@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>InheritanceDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>InheritanceDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>InheritanceDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

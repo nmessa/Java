@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MixingColors</label>
+	</settings>
+	<users>
+		<user>
+			<path>MixingColors.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MixingColors.jcp</path>
+		</project>
+	</projects>
+</workspace>

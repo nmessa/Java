@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ShellGUIApplication</label>
+	</settings>
+	<users>
+		<user>
+			<path>ShellGUIApplication.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ShellGUIApplication.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Login</label>
+	</settings>
+	<users>
+		<user>
+			<path>Login.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Login.jcp</path>
+		</project>
+	</projects>
+</workspace>
