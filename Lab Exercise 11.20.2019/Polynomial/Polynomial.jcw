@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Polynomial</label>
+	</settings>
+	<users>
+		<user>
+			<path>Polynomial.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Polynomial.jcp</path>
+		</project>
+	</projects>
+</workspace>

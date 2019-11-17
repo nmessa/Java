@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RandomArray</label>
+	</settings>
+	<users>
+		<user>
+			<path>RandomArray.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RandomArray.jcp</path>
+		</project>
+	</projects>
+</workspace>

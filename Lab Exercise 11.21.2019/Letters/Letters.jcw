@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Letters</label>
+	</settings>
+	<users>
+		<user>
+			<path>Letters.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Letters.jcp</path>
+		</project>
+	</projects>
+</workspace>

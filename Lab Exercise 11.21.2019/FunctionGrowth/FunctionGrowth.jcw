@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FunctionGrowth</label>
+	</settings>
+	<users>
+		<user>
+			<path>FunctionGrowth.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FunctionGrowth.jcp</path>
+		</project>
+	</projects>
+</workspace>

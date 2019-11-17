@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SumOfNumbers</label>
+	</settings>
+	<users>
+		<user>
+			<path>SumOfNumbers.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SumOfNumbers.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Planet</label>
+	</settings>
+	<users>
+		<user>
+			<path>Planet.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Planet.jcp</path>
+		</project>
+	</projects>
+</workspace>
