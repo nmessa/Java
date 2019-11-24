@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Birthday</label>
+	</settings>
+	<users>
+		<user>
+			<path>Birthday.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Birthday.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MonteHall</label>
+	</settings>
+	<users>
+		<user>
+			<path>MonteHall.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MonteHall.jcp</path>
+		</project>
+	</projects>
+</workspace>
