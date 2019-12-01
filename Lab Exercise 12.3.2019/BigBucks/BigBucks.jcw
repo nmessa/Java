@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BigBucks</label>
+	</settings>
+	<users>
+		<user>
+			<path>BigBucks.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BigBucks.jcp</path>
+		</project>
+	</projects>
+</workspace>

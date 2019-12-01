@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>CreditCard</label>
+	</settings>
+	<users>
+		<user>
+			<path>CreditCard.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>CreditCard.jcp</path>
+		</project>
+	</projects>
+</workspace>

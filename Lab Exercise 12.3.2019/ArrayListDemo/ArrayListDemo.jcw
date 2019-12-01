@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArrayListDemo</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArrayListDemo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayListDemo.jcp</path>
+		</project>
+	</projects>
+</workspace>

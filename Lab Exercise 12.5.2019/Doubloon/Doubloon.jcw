@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Doubloon</label>
+	</settings>
+	<users>
+		<user>
+			<path>Doubloon.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Doubloon.jcp</path>
+		</project>
+	</projects>
+</workspace>
