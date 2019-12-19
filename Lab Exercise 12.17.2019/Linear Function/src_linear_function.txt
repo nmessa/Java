@@ -1,0 +1,3 @@
+"H:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 12.17.2019\\Linear Function\\src\\Linear_Function.java"
+"H:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 12.17.2019\\Linear Function\\src\\LinearFunction.java"
+"H:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 12.17.2019\\Linear Function\\src\\LinearFunctionMethods.java"

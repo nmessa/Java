@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Robotics</label>
+	</settings>
+	<users>
+		<user>
+			<path>Robotics.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Robotics.jcp</path>
+		</project>
+	</projects>
+</workspace>
