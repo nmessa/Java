@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>BubbleSort</label>
+	</settings>
+	<users>
+		<user>
+			<path>BubbleSort.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>BubbleSort.jcp</path>
+		</project>
+	</projects>
+</workspace>
