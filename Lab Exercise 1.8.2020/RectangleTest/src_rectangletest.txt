@@ -1,0 +1,2 @@
+"H:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 1.8.2020\\RectangleTest\\src\\MyRectangle.java"
+"H:\\SST\\2019 - 2020 Courses\\Java\\MyJava\\Lab Exercise 1.8.2020\\RectangleTest\\src\\RectangleTest.java"

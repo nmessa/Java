@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>RectangleTest</label>
+	</settings>
+	<users>
+		<user>
+			<path>RectangleTest.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>RectangleTest.jcp</path>
+		</project>
+	</projects>
+</workspace>
